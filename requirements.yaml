@@ -1,0 +1,20 @@
+packages:
+  "framer-motion": "For premium scroll reveal animations and page transitions"
+  "react-hook-form": "For handling the contact form UI state"
+  "@hookform/resolvers": "For form validation integration"
+  "zod": "For defining contact form schemas"
+  "clsx": "Utility for conditionally joining classNames"
+  "tailwind-merge": "Utility to efficiently merge Tailwind CSS classes without style conflicts"
+
+images:
+  - path: "artifacts/techconnect360/public/images/hero-abstract.png"
+    description: "Abstract 3D geometric shapes floating in a clean, soft studio lighting environment, light gray and soft blue tones, highly polished, minimalist tech startup style"
+    aspect_ratio: "16:9"
+  - path: "artifacts/techconnect360/public/images/network-abstract.png"
+    description: "Abstract representation of digital connectivity, glowing nodes, soft blue and orange accents on a sleek dark charcoal background, premium corporate feel"
+    aspect_ratio: "16:9"
+
+notes:
+  - Frontend-only application. No backend API calls are implemented.
+  - Forms use react-hook-form for UI validation only and simulate submission.
+  - Framer-motion used extensively for scroll-reveal animations.
