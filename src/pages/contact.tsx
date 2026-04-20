@@ -84,7 +84,7 @@ export default function ContactPage() {
                           <FormItem>
                             <FormLabel className="text-secondary font-medium">Full Name</FormLabel>
                             <FormControl>
-                              <Input placeholder="John Doe" className="h-12 bg-muted/50 rounded-xl" {...field} />
+                              <Input placeholder="Amit Kumar" className="h-12 bg-muted/50 rounded-xl" {...field} />
                             </FormControl>
                             <FormMessage />
                           </FormItem>
@@ -99,7 +99,7 @@ export default function ContactPage() {
                             <FormItem>
                               <FormLabel className="text-secondary font-medium">Email Address</FormLabel>
                               <FormControl>
-                                <Input placeholder="john@example.com" type="email" className="h-12 bg-muted/50 rounded-xl" {...field} />
+                                <Input placeholder="amit@example.com" type="email" className="h-12 bg-muted/50 rounded-xl" {...field} />
                               </FormControl>
                               <FormMessage />
                             </FormItem>
@@ -113,7 +113,7 @@ export default function ContactPage() {
                             <FormItem>
                               <FormLabel className="text-secondary font-medium">Phone (Optional)</FormLabel>
                               <FormControl>
-                                <Input placeholder="+1 (555) 000-0000" className="h-12 bg-muted/50 rounded-xl" {...field} />
+                                <Input placeholder="+91 98798 79879" className="h-12 bg-muted/50 rounded-xl" {...field} />
                               </FormControl>
                               <FormMessage />
                             </FormItem>
@@ -175,8 +175,8 @@ export default function ContactPage() {
                         </div>
                         <div>
                           <p className="font-semibold text-secondary">Email Us</p>
-                          <a href="mailto:hello@techconnect360.com" className="text-muted-foreground hover:text-primary transition-colors">
-                            hello@techconnect360.com
+                          <a href="mailto:tc360support@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                            tc360support@gmail.com
                           </a>
                         </div>
                       </div>
@@ -188,7 +188,7 @@ export default function ContactPage() {
                         <div>
                           <p className="font-semibold text-secondary">Call Us</p>
                           <a href="tel:+15551234567" className="text-muted-foreground hover:text-accent transition-colors">
-                            +1 (555) 123-4567
+                            +91 94089 37631
                           </a>
                         </div>
                       </div>
@@ -200,8 +200,8 @@ export default function ContactPage() {
                         <div>
                           <p className="font-semibold text-secondary">Visit Us</p>
                           <p className="text-muted-foreground">
-                            123 Innovation Drive,<br />
-                            Tech Valley, TX 75001
+                            134, Laxminagar-2, Gotri<br />
+                            Road, Vadodara - 390021
                           </p>
                         </div>
                       </div>
@@ -212,7 +212,7 @@ export default function ContactPage() {
                     <h4 className="font-bold text-lg mb-2">Business Hours</h4>
                     <ul className="space-y-2 text-sm text-muted-foreground">
                       <li className="flex justify-between"><span>Monday - Friday:</span> <span>9:00 AM - 6:00 PM</span></li>
-                      <li className="flex justify-between"><span>Saturday:</span> <span>10:00 AM - 2:00 PM</span></li>
+                      <li className="flex justify-between"><span>Saturday:</span> <span>9:00 AM - 2:45 PM</span></li>
                       <li className="flex justify-between"><span>Sunday:</span> <span>Closed</span></li>
                     </ul>
                   </div>

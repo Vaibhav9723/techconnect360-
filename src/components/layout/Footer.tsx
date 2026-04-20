@@ -65,15 +65,16 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 shrink-0 mt-0.5" style={{ color: '#ee7c27' }} />
-                <span className="text-secondary-foreground/70 text-sm">123 Innovation Drive, Tech Valley, TX 75001</span>
+                <span className="text-secondary-foreground/70 text-sm">134, Laxminagar-2, Gotri,
+                            Road, Vadodara - 390021</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 shrink-0" style={{ color: '#ee7c27' }} />
-                <span className="text-secondary-foreground/70 text-sm">+1 (555) 123-4567</span>
+                <span className="text-secondary-foreground/70 text-sm">+91 94089 37631</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 shrink-0" style={{ color: '#ee7c27' }} />
-                <span className="text-secondary-foreground/70 text-sm">hello@techconnect360.com</span>
+                <span className="text-secondary-foreground/70 text-sm">tc360support@gmail.com</span>
               </li>
             </ul>
           </div>

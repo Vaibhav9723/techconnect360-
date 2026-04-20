@@ -89,7 +89,7 @@ export default function Home() {
               <FadeIn delay={0.2} direction="left" className="relative w-full aspect-square md:aspect-video lg:aspect-square max-w-lg mx-auto">
                 <div className="absolute inset-0 rounded-3xl bg-gradient-to-tr from-primary/20 to-accent/20 blur-2xl transform rotate-6"></div>
                 <img 
-                  src={`${import.meta.env.BASE_URL}images/hero-abstract.png`} 
+                  src={`${import.meta.env.BASE_URL}images/h2.jpg`} 
                   alt="Abstract Digital Solutions" 
                   className="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl shadow-secondary/10 border border-white/50"
                 />
